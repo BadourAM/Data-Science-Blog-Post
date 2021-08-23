@@ -14,3 +14,7 @@ Data scientists using Jupyter for data cleaning and transformation, statistical 
 ### File Descriptions
 * [survey_results_schema.csv](https://github.com/BadourAM/Data-Science-Blog-Post/files/7029819/survey_results_schema.csv)
 * https://www.kaggle.com/stackoverflow/so-survey-2017/version/2?select=survey_results_public.csv
+* 
+### Results
+
+### Licensing, Authors, and Acknowledgements
